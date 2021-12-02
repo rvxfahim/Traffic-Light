@@ -1,0 +1,34 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:\\MinGW\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\MinGW\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\MinGW\\bin\\make.exe",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:/Users/fahim/Documents/PlatformIO/Projects/Traffic Light/include",
+    "C:/Users/fahim/Documents/PlatformIO/Projects/Traffic Light/src",
+    "C:/Users/fahim/Documents/PlatformIO/Projects/Traffic Light/lib/Arduino_FreeRTOS_Library-master/src",
+    "C:/Users/fahim/Documents/PlatformIO/Projects/Traffic Light/.pio/libdeps/nanoatmega328/SevSeg",
+    "C:/Users/fahim/Documents/PlatformIO/Projects/Traffic Light/.pio/libdeps/nanoatmega328/elapsedMillis",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/cores/arduino",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+    "C:/Users/fahim/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+    "C:/Users/fahim/.platformio/packages/tool-unity",
+    ""
+  ],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false
+}
